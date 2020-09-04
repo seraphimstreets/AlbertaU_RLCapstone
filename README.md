@@ -25,8 +25,6 @@ Simulation
 
 
 
-Learning Curve
-
 
 ![Learning Curve](https://i.imgur.com/855DgGA.png)
 
