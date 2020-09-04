@@ -12,7 +12,7 @@ We also utilize experience replay buffers (data store of previous episodes) to i
 
 After about 300 episodes, the module had learnt to safely land on the moon. 
 
-After 3000 episodes, reward maximisation goal had reached a plateau. 
+After 1000 episodes, reward maximisation goal had reached a plateau. 
 
 # Visualization
 
