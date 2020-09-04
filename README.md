@@ -16,10 +16,16 @@ After 3000 episodes, reward maximisation goal had reached a plateau.
 
 # Visualization
 
+Simulation
+
+
+![Simulation](https://i.imgur.com/WDuUkno.gif)
+
+
+
 Learning Curve
+
 
 ![Learning Curve](https://i.imgur.com/855DgGA.png)
 
-Simulation
 
-![Simulation](https://i.imgur.com/WDuUkno.gif)
